@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/victorreverter_24/static/css/main.b32bafdd.css",
+    "main.js": "/victorreverter_24/static/js/main.c13d2483.js",
+    "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
+    "index.html": "/victorreverter_24/index.html",
+    "main.b32bafdd.css.map": "/victorreverter_24/static/css/main.b32bafdd.css.map",
+    "main.c13d2483.js.map": "/victorreverter_24/static/js/main.c13d2483.js.map",
+    "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b32bafdd.css",
+    "static/js/main.c13d2483.js"
+  ]
+}
