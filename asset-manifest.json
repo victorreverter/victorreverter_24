@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/victorreverter_24/static/css/main.7e8dfd14.css",
+    "main.css": "/victorreverter_24/static/css/main.948b9af8.css",
     "main.js": "/victorreverter_24/static/js/main.764ba5ea.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/Red_VR.png": "/victorreverter_24/static/media/Red_VR.b17574bbbb02b1441da2.png",
     "static/media/Light_VR.png": "/victorreverter_24/static/media/Light_VR.8cf924c9d934135c485c.png",
     "index.html": "/victorreverter_24/index.html",
-    "main.7e8dfd14.css.map": "/victorreverter_24/static/css/main.7e8dfd14.css.map",
+    "main.948b9af8.css.map": "/victorreverter_24/static/css/main.948b9af8.css.map",
     "main.764ba5ea.js.map": "/victorreverter_24/static/js/main.764ba5ea.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e8dfd14.css",
+    "static/css/main.948b9af8.css",
     "static/js/main.764ba5ea.js"
   ]
 }
