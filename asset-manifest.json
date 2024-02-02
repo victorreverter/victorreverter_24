@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/victorreverter_24/static/css/main.10a950e3.css",
-    "main.js": "/victorreverter_24/static/js/main.2e2cafbd.js",
+    "main.css": "/victorreverter_24/static/css/main.a9b61943.css",
+    "main.js": "/victorreverter_24/static/js/main.e2ee0ee4.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/Home_Pic.jpg": "/victorreverter_24/static/media/Home_Pic.e4ed5c842aaeaa813fd6.jpg",
+    "static/media/About_Pic.jpg": "/victorreverter_24/static/media/About_Pic.02446ab2ef8b1c212f57.jpg",
     "static/media/project_1.jpg": "/victorreverter_24/static/media/project_1.fa60c076830651d00383.jpg",
     "static/media/project_2.jpg": "/victorreverter_24/static/media/project_2.595895902589e4d238a5.jpg",
     "static/media/project_4.jpg": "/victorreverter_24/static/media/project_4.0e3f9f2ba0ebca2726f0.jpg",
@@ -12,12 +13,12 @@
     "static/media/Light_VR.png": "/victorreverter_24/static/media/Light_VR.591de5a0d92fe038a704.png",
     "static/media/Big_VR_Logo_Light.png": "/victorreverter_24/static/media/Big_VR_Logo_Light.e32afc74965df036d26f.png",
     "index.html": "/victorreverter_24/index.html",
-    "main.10a950e3.css.map": "/victorreverter_24/static/css/main.10a950e3.css.map",
-    "main.2e2cafbd.js.map": "/victorreverter_24/static/js/main.2e2cafbd.js.map",
+    "main.a9b61943.css.map": "/victorreverter_24/static/css/main.a9b61943.css.map",
+    "main.e2ee0ee4.js.map": "/victorreverter_24/static/js/main.e2ee0ee4.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.10a950e3.css",
-    "static/js/main.2e2cafbd.js"
+    "static/css/main.a9b61943.css",
+    "static/js/main.e2ee0ee4.js"
   ]
 }
