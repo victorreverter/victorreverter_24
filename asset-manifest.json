@@ -1,8 +1,14 @@
 {
   "files": {
-    "main.css": "/victorreverter_24/static/css/main.95ab7561.css",
-    "main.js": "/victorreverter_24/static/js/main.a931c13e.js",
+    "main.css": "/victorreverter_24/static/css/main.9f3c2656.css",
+    "main.js": "/victorreverter_24/static/js/main.650e16c4.js",
+    "static/js/679.12f9479d.chunk.js": "/victorreverter_24/static/js/679.12f9479d.chunk.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
+    "static/media/BarackO.png": "/victorreverter_24/static/media/BarackO.baa5a6d3be389bacf026.png",
+    "static/media/DonaldT.png": "/victorreverter_24/static/media/DonaldT.c3febfd5084a12492f7c.png",
+    "static/media/BillC.png": "/victorreverter_24/static/media/BillC.e10d1a88c8b99354cffb.png",
+    "static/media/AbrahamLincoln.png": "/victorreverter_24/static/media/AbrahamLincoln.32d49926d098bc558112.png",
+    "static/media/FranklinR.png": "/victorreverter_24/static/media/FranklinR.a969b5f139749098c404.png",
     "static/media/About_Pic.jpg": "/victorreverter_24/static/media/About_Pic.61289d8b1aa1c2b93819.jpg",
     "static/media/Home_Pic.jpg": "/victorreverter_24/static/media/Home_Pic.ec7d88921fbcd69a057d.jpg",
     "static/media/project_1.jpg": "/victorreverter_24/static/media/project_1.fa60c076830651d00383.jpg",
@@ -13,12 +19,13 @@
     "static/media/Light_VR.png": "/victorreverter_24/static/media/Light_VR.591de5a0d92fe038a704.png",
     "static/media/Big_VR_Logo_Light.png": "/victorreverter_24/static/media/Big_VR_Logo_Light.e32afc74965df036d26f.png",
     "index.html": "/victorreverter_24/index.html",
-    "main.95ab7561.css.map": "/victorreverter_24/static/css/main.95ab7561.css.map",
-    "main.a931c13e.js.map": "/victorreverter_24/static/js/main.a931c13e.js.map",
+    "main.9f3c2656.css.map": "/victorreverter_24/static/css/main.9f3c2656.css.map",
+    "main.650e16c4.js.map": "/victorreverter_24/static/js/main.650e16c4.js.map",
+    "679.12f9479d.chunk.js.map": "/victorreverter_24/static/js/679.12f9479d.chunk.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.95ab7561.css",
-    "static/js/main.a931c13e.js"
+    "static/css/main.9f3c2656.css",
+    "static/js/main.650e16c4.js"
   ]
 }
