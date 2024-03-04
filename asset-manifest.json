@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/victorreverter_24/static/css/main.b6b790ba.css",
-    "main.js": "/victorreverter_24/static/js/main.268c0e46.js",
+    "main.css": "/victorreverter_24/static/css/main.85658eb4.css",
+    "main.js": "/victorreverter_24/static/js/main.22d3e4ac.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/Solution_IV.jpg": "/victorreverter_24/static/media/Solution_IV.eb32a72d2c49745a4d68.jpg",
     "static/media/project_1.jpg": "/victorreverter_24/static/media/project_1.fa60c076830651d00383.jpg",
@@ -24,12 +24,12 @@
     "static/media/slick.ttf": "/victorreverter_24/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/victorreverter_24/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/victorreverter_24/index.html",
-    "main.b6b790ba.css.map": "/victorreverter_24/static/css/main.b6b790ba.css.map",
-    "main.268c0e46.js.map": "/victorreverter_24/static/js/main.268c0e46.js.map",
+    "main.85658eb4.css.map": "/victorreverter_24/static/css/main.85658eb4.css.map",
+    "main.22d3e4ac.js.map": "/victorreverter_24/static/js/main.22d3e4ac.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b6b790ba.css",
-    "static/js/main.268c0e46.js"
+    "static/css/main.85658eb4.css",
+    "static/js/main.22d3e4ac.js"
   ]
 }
