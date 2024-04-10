@@ -1,9 +1,10 @@
 {
   "files": {
-    "main.css": "/victorreverter_24/static/css/main.9e2e37e2.css",
-    "main.js": "/victorreverter_24/static/js/main.83060d5b.js",
+    "main.css": "/victorreverter_24/static/css/main.e3b61b53.css",
+    "main.js": "/victorreverter_24/static/js/main.90924c0c.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/Stationatery_3.jpg": "/victorreverter_24/static/media/Stationatery_3.d862cc0194087e52d46c.jpg",
+    "static/media/2.1_Two_Key_Problem.png": "/victorreverter_24/static/media/2.1_Two_Key_Problem.10243538ea0086c89c40.png",
     "static/media/Intro_Audience.png": "/victorreverter_24/static/media/Intro_Audience.fd15819c432e78c66e5c.png",
     "static/media/Intro_Solution.jpg": "/victorreverter_24/static/media/Intro_Solution.e6c342a93b00883eb64a.jpg",
     "static/media/Cover.jpg": "/victorreverter_24/static/media/Cover.a193f10af8b52ed8a8a3.jpg",
@@ -45,6 +46,7 @@
     "static/media/Design_Process.png": "/victorreverter_24/static/media/Design_Process.9c0864b4eab4703ba4c1.png",
     "static/media/project_2_big.jpg": "/victorreverter_24/static/media/project_2_big.6b2da1313ed9b23ec6b5.jpg",
     "static/media/project_1.jpg": "/victorreverter_24/static/media/project_1.37729624493d014e36d1.jpg",
+    "static/media/2.1_The_Environment.png": "/victorreverter_24/static/media/2.1_The_Environment.fd7f0f3c7f6fa6809497.png",
     "static/media/Home_Pic_Small.webp": "/victorreverter_24/static/media/Home_Pic_Small.cb1b2eefcc1579b26a9b.webp",
     "static/media/About_Pic.jpg": "/victorreverter_24/static/media/About_Pic.28bf5debc3545f5cf6a8.jpg",
     "static/media/project_2.jpg": "/victorreverter_24/static/media/project_2.c7861691e9e93ee7c4b6.jpg",
@@ -58,12 +60,12 @@
     "static/media/slick.ttf": "/victorreverter_24/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/victorreverter_24/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/victorreverter_24/index.html",
-    "main.9e2e37e2.css.map": "/victorreverter_24/static/css/main.9e2e37e2.css.map",
-    "main.83060d5b.js.map": "/victorreverter_24/static/js/main.83060d5b.js.map",
+    "main.e3b61b53.css.map": "/victorreverter_24/static/css/main.e3b61b53.css.map",
+    "main.90924c0c.js.map": "/victorreverter_24/static/js/main.90924c0c.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e2e37e2.css",
-    "static/js/main.83060d5b.js"
+    "static/css/main.e3b61b53.css",
+    "static/js/main.90924c0c.js"
   ]
 }
