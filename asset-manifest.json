@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/victorreverter_24/static/css/main.98f2c2e7.css",
-    "main.js": "/victorreverter_24/static/js/main.b5a48371.js",
+    "main.js": "/victorreverter_24/static/js/main.9ad6a0e1.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/2.2_Define.png": "/victorreverter_24/static/media/2.2_Define.b065eb0d36877d5e3615.png",
     "static/media/Ideation.png": "/victorreverter_24/static/media/Ideation.3f2511d42195d5757e38.png",
@@ -57,6 +57,8 @@
     "static/media/project_3_big.jpg": "/victorreverter_24/static/media/project_3_big.084df6beaef02a5cfb4e.jpg",
     "static/media/Brand_Color_2.png": "/victorreverter_24/static/media/Brand_Color_2.c351dac71f19e50d216b.png",
     "static/media/BrandCreation.png": "/victorreverter_24/static/media/BrandCreation.b7c6250a96810ab71b73.png",
+    "static/media/DarkMode_One.avif": "/victorreverter_24/static/media/DarkMode_One.e11e58b7eb4ce875415b.avif",
+    "static/media/DarkMode_Two.avif": "/victorreverter_24/static/media/DarkMode_Two.e11e58b7eb4ce875415b.avif",
     "static/media/Stationatery_10.jpg": "/victorreverter_24/static/media/Stationatery_10.d8f4ac95146e296a2e70.jpg",
     "static/media/project_0_big.jpg": "/victorreverter_24/static/media/project_0_big.a8dc0b57c48807e8432a.jpg",
     "static/media/project_4_big.jpg": "/victorreverter_24/static/media/project_4_big.a8dc0b57c48807e8432a.jpg",
@@ -71,6 +73,7 @@
     "static/media/project_1.jpg": "/victorreverter_24/static/media/project_1.37729624493d014e36d1.jpg",
     "static/media/Userflow.png": "/victorreverter_24/static/media/Userflow.2088b82d9444eedd573e.png",
     "static/media/Reference_Four.avif": "/victorreverter_24/static/media/Reference_Four.589797d663db99293cf5.avif",
+    "static/media/DarkMode_Three.avif": "/victorreverter_24/static/media/DarkMode_Three.72843d4fa2de1923a353.avif",
     "static/media/Mockup_Eigth.avif": "/victorreverter_24/static/media/Mockup_Eigth.36dc666dabffa3b1768f.avif",
     "static/media/Mockup_Five.avif": "/victorreverter_24/static/media/Mockup_Five.6bd51e5b98e46998042f.avif",
     "static/media/2.1_The_Environment.png": "/victorreverter_24/static/media/2.1_The_Environment.fd7f0f3c7f6fa6809497.png",
@@ -110,11 +113,11 @@
     "static/media/slick.woff": "/victorreverter_24/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/victorreverter_24/index.html",
     "main.98f2c2e7.css.map": "/victorreverter_24/static/css/main.98f2c2e7.css.map",
-    "main.b5a48371.js.map": "/victorreverter_24/static/js/main.b5a48371.js.map",
+    "main.9ad6a0e1.js.map": "/victorreverter_24/static/js/main.9ad6a0e1.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.98f2c2e7.css",
-    "static/js/main.b5a48371.js"
+    "static/js/main.9ad6a0e1.js"
   ]
 }
