@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/victorreverter_24/static/css/main.093bd481.css",
-    "main.js": "/victorreverter_24/static/js/main.4f531a00.js",
+    "main.css": "/victorreverter_24/static/css/main.f30342d8.css",
+    "main.js": "/victorreverter_24/static/js/main.61b3073e.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/Stationatery_3.jpg": "/victorreverter_24/static/media/Stationatery_3.d862cc0194087e52d46c.jpg",
     "static/media/Prototype_2.gif": "/victorreverter_24/static/media/Prototype_2.03359529361cef539025.gif",
@@ -148,12 +148,12 @@
     "static/media/slick.ttf": "/victorreverter_24/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/victorreverter_24/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/victorreverter_24/index.html",
-    "main.093bd481.css.map": "/victorreverter_24/static/css/main.093bd481.css.map",
-    "main.4f531a00.js.map": "/victorreverter_24/static/js/main.4f531a00.js.map",
+    "main.f30342d8.css.map": "/victorreverter_24/static/css/main.f30342d8.css.map",
+    "main.61b3073e.js.map": "/victorreverter_24/static/js/main.61b3073e.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.093bd481.css",
-    "static/js/main.4f531a00.js"
+    "static/css/main.f30342d8.css",
+    "static/js/main.61b3073e.js"
   ]
 }
