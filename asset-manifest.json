@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/victorreverter_24/static/css/main.51366471.css",
-    "main.js": "/victorreverter_24/static/js/main.327c7100.js",
+    "main.js": "/victorreverter_24/static/js/main.f1f7f7ed.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/Prototype_2.gif": "/victorreverter_24/static/media/Prototype_2.03359529361cef539025.gif",
     "static/media/project_3_big.jpg": "/victorreverter_24/static/media/project_3_big.9609250d138bd2a19dc9.jpg",
@@ -128,7 +128,7 @@
     "static/media/WireframeTwo.avif": "/victorreverter_24/static/media/WireframeTwo.8fef30c109e82bdf2ac3.avif",
     "static/media/WireframeThree.avif": "/victorreverter_24/static/media/WireframeThree.4096f4c51855c7164225.avif",
     "static/media/errorsummary.avif": "/victorreverter_24/static/media/errorsummary.36b85aef79d3b6111bb8.avif",
-    "static/media/components.avif": "/victorreverter_24/static/media/components.9c8ebe558252de94c9b9.avif",
+    "static/media/components-pic.avif": "/victorreverter_24/static/media/components-pic.9c8ebe558252de94c9b9.avif",
     "static/media/TheEnvironment.avif": "/victorreverter_24/static/media/TheEnvironment.f4e1a74b45ed24ac998a.avif",
     "static/media/WireframeFive.avif": "/victorreverter_24/static/media/WireframeFive.806b7005cd66cf152116.avif",
     "static/media/WireframeOne.avif": "/victorreverter_24/static/media/WireframeOne.b688607570ea36855d12.avif",
@@ -167,11 +167,11 @@
     "static/media/slick.woff": "/victorreverter_24/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/victorreverter_24/index.html",
     "main.51366471.css.map": "/victorreverter_24/static/css/main.51366471.css.map",
-    "main.327c7100.js.map": "/victorreverter_24/static/js/main.327c7100.js.map",
+    "main.f1f7f7ed.js.map": "/victorreverter_24/static/js/main.f1f7f7ed.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.51366471.css",
-    "static/js/main.327c7100.js"
+    "static/js/main.f1f7f7ed.js"
   ]
 }
