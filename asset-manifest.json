@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/victorreverter_24/static/css/main.ea1a9bd7.css",
-    "main.js": "/victorreverter_24/static/js/main.2bda617d.js",
+    "main.js": "/victorreverter_24/static/js/main.8082960a.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/Prototype_2.gif": "/victorreverter_24/static/media/Prototype_2.03359529361cef539025.gif",
     "static/media/project_3_big.jpg": "/victorreverter_24/static/media/project_3_big.9609250d138bd2a19dc9.jpg",
@@ -9,7 +9,9 @@
     "static/media/desktopmockup2.avif": "/victorreverter_24/static/media/desktopmockup2.f020b397810cd46482a1.avif",
     "static/media/project_3.jpg": "/victorreverter_24/static/media/project_3.13599d05c9d4f59edca6.jpg",
     "static/media/Prototype_5.gif": "/victorreverter_24/static/media/Prototype_5.79b8a6483dcd769ad693.gif",
+    "static/media/componentssketch3.avif": "/victorreverter_24/static/media/componentssketch3.076c651fedc26325948f.avif",
     "static/media/Define.avif": "/victorreverter_24/static/media/Define.255cde7fe5833cb1e418.avif",
+    "static/media/componentssketch4.avif": "/victorreverter_24/static/media/componentssketch4.25cfa371401a40615835.avif",
     "static/media/Ideation.avif": "/victorreverter_24/static/media/Ideation.547baa588a01f2150994.avif",
     "static/media/UserResearchThree.avif": "/victorreverter_24/static/media/UserResearchThree.9cea8378c34456e0b997.avif",
     "static/media/Project_Screen.jpg": "/victorreverter_24/static/media/Project_Screen.6a452abfcf7756ad7cfc.jpg",
@@ -17,6 +19,8 @@
     "static/media/Prototype_1.gif": "/victorreverter_24/static/media/Prototype_1.0dd5c77c118c0e1f75ab.gif",
     "static/media/desktopmockup4.avif": "/victorreverter_24/static/media/desktopmockup4.c48c09c9f0ad3fae2bd7.avif",
     "static/media/Prototype_6.gif": "/victorreverter_24/static/media/Prototype_6.0f85d543d79727feda1f.gif",
+    "static/media/componentssketch1.avif": "/victorreverter_24/static/media/componentssketch1.7c8158d279dcf1c9321b.avif",
+    "static/media/componentssketch2.avif": "/victorreverter_24/static/media/componentssketch2.798d8f0a0dddb96f51f7.avif",
     "static/media/Prototype_4.gif": "/victorreverter_24/static/media/Prototype_4.83964e97c78999a7014e.gif",
     "static/media/mobilemockup2.avif": "/victorreverter_24/static/media/mobilemockup2.86a6d490218bed9ebd35.avif",
     "static/media/images_1.avif": "/victorreverter_24/static/media/images_1.908ed2861eed6ef1862d.avif",
@@ -102,6 +106,7 @@
     "static/media/Mockup_Four.avif": "/victorreverter_24/static/media/Mockup_Four.210747d0b5121cf7e70f.avif",
     "static/media/Reference_Two.avif": "/victorreverter_24/static/media/Reference_Two.5248e7e97c13a121683c.avif",
     "static/media/gov_uk_ref.avif": "/victorreverter_24/static/media/gov_uk_ref.1f2c4e88193467f45673.avif",
+    "static/media/iteration_process.avif": "/victorreverter_24/static/media/iteration_process.afae57f469fc373079f7.avif",
     "static/media/SolutionIV.avif": "/victorreverter_24/static/media/SolutionIV.212029a2a301235bf41b.avif",
     "static/media/project_2.jpg": "/victorreverter_24/static/media/project_2.c7861691e9e93ee7c4b6.jpg",
     "static/media/IntroBackground.avif": "/victorreverter_24/static/media/IntroBackground.b45dd0b6cf85cadfc617.avif",
@@ -111,9 +116,12 @@
     "static/media/Mockup_Two.avif": "/victorreverter_24/static/media/Mockup_Two.b2c647cbc7b2bfd5aa0c.avif",
     "static/media/benefits_design_systems.avif": "/victorreverter_24/static/media/benefits_design_systems.15cef8aa07554d3d5e8e.avif",
     "static/media/StationateryEight.avif": "/victorreverter_24/static/media/StationateryEight.e6ec5bca154db20268c4.avif",
+    "static/media/conclusion_1.avif": "/victorreverter_24/static/media/conclusion_1.0a515c5ad42a3f073d5a.avif",
     "static/media/benefits_for_spain_government.avif": "/victorreverter_24/static/media/benefits_for_spain_government.eab4475b06e3f9bb8097.avif",
     "static/media/typography_1.avif": "/victorreverter_24/static/media/typography_1.eb87bde68e92be1768ff.avif",
+    "static/media/conclusion_2.avif": "/victorreverter_24/static/media/conclusion_2.669c1c311f3528f63792.avif",
     "static/media/demographics.avif": "/victorreverter_24/static/media/demographics.c06e52564faa79da5bde.avif",
+    "static/media/user_testing_process.avif": "/victorreverter_24/static/media/user_testing_process.334fc713472e52dc11b5.avif",
     "static/media/SolutionV.avif": "/victorreverter_24/static/media/SolutionV.266d5244c9428c798821.avif",
     "static/media/SolutionII.avif": "/victorreverter_24/static/media/SolutionII.40a16f9dc3fc27d12aca.avif",
     "static/media/StationateryFive.avif": "/victorreverter_24/static/media/StationateryFive.c219a2d35b9bc9540ef4.avif",
@@ -202,11 +210,11 @@
     "static/media/slick.woff": "/victorreverter_24/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/victorreverter_24/index.html",
     "main.ea1a9bd7.css.map": "/victorreverter_24/static/css/main.ea1a9bd7.css.map",
-    "main.2bda617d.js.map": "/victorreverter_24/static/js/main.2bda617d.js.map",
+    "main.8082960a.js.map": "/victorreverter_24/static/js/main.8082960a.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ea1a9bd7.css",
-    "static/js/main.2bda617d.js"
+    "static/js/main.8082960a.js"
   ]
 }
