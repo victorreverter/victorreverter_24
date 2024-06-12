@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/victorreverter_24/static/css/main.ea1a9bd7.css",
-    "main.js": "/victorreverter_24/static/js/main.8082960a.js",
+    "main.css": "/victorreverter_24/static/css/main.3dc8984b.css",
+    "main.js": "/victorreverter_24/static/js/main.28fac11a.js",
     "static/js/787.7d2d1c11.chunk.js": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js",
     "static/media/Prototype_2.gif": "/victorreverter_24/static/media/Prototype_2.03359529361cef539025.gif",
     "static/media/project_3_big.jpg": "/victorreverter_24/static/media/project_3_big.9609250d138bd2a19dc9.jpg",
@@ -63,6 +63,7 @@
     "static/media/project_2_big.jpg": "/victorreverter_24/static/media/project_2_big.6b2da1313ed9b23ec6b5.jpg",
     "static/media/References_Visual.avif": "/victorreverter_24/static/media/References_Visual.959a02b0880c91984a43.avif",
     "static/media/WorldCupWin.avif": "/victorreverter_24/static/media/WorldCupWin.3ab6b5bc71e733e8a5f7.avif",
+    "static/media/lab_cover1.avif": "/victorreverter_24/static/media/lab_cover1.1b423359892afe6c8fa0.avif",
     "static/media/desktopmockup8.avif": "/victorreverter_24/static/media/desktopmockup8.3d09ecb7e740fb888221.avif",
     "static/media/SolutionVII.avif": "/victorreverter_24/static/media/SolutionVII.139055bd67d4f14c04d5.avif",
     "static/media/Mockup_Six.avif": "/victorreverter_24/static/media/Mockup_Six.bfe7aa51118bb01b66d9.avif",
@@ -95,6 +96,7 @@
     "static/media/Home_Pic_Small.webp": "/victorreverter_24/static/media/Home_Pic_Small.cb1b2eefcc1579b26a9b.webp",
     "static/media/DesignPrinciplesThree.avif": "/victorreverter_24/static/media/DesignPrinciplesThree.82e21c28e04800c2b186.avif",
     "static/media/TipographyII.avif": "/victorreverter_24/static/media/TipographyII.4a1b01670cbb763a6660.avif",
+    "static/media/lab_cover3.avif": "/victorreverter_24/static/media/lab_cover3.49e14c5fcd1c07f5fcc1.avif",
     "static/media/Reference_One.avif": "/victorreverter_24/static/media/Reference_One.0d676808e16da0549833.avif",
     "static/media/Reference_Three.avif": "/victorreverter_24/static/media/Reference_Three.3633c607bc7b685faff7.avif",
     "static/media/Reference_Five.avif": "/victorreverter_24/static/media/Reference_Five.796f04d5c93f60fb9dcb.avif",
@@ -131,6 +133,7 @@
     "static/media/spacing_1.avif": "/victorreverter_24/static/media/spacing_1.47778c000e11bb1ac94f.avif",
     "static/media/textinput.avif": "/victorreverter_24/static/media/textinput.1eed96057a5ec878f81f.avif",
     "static/media/SolutionIII.avif": "/victorreverter_24/static/media/SolutionIII.11fc629a3be971f3e0ab.avif",
+    "static/media/lab_cover4.avif": "/victorreverter_24/static/media/lab_cover4.8054dffaadd07be16e4e.avif",
     "static/media/SolutionI.avif": "/victorreverter_24/static/media/SolutionI.0178525f2099b7ea1adf.avif",
     "static/media/Userflow.avif": "/victorreverter_24/static/media/Userflow.15a8ce631e065cc3c12b.avif",
     "static/media/summarylist.avif": "/victorreverter_24/static/media/summarylist.c70b8b1efaff06c3bc3d.avif",
@@ -199,6 +202,7 @@
     "static/media/images.avif": "/victorreverter_24/static/media/images.e1e7f38d9f1bbf1181e3.avif",
     "static/media/grids.avif": "/victorreverter_24/static/media/grids.2868634c10c081388e26.avif",
     "static/media/brand.avif": "/victorreverter_24/static/media/brand.e23098f9d42262e76c0f.avif",
+    "static/media/lab_cover2.avif": "/victorreverter_24/static/media/lab_cover2.4f2170300daa7a56b4dd.avif",
     "static/media/breadcrumbs.avif": "/victorreverter_24/static/media/breadcrumbs.b016227c9eca008206f5.avif",
     "static/media/accordion.avif": "/victorreverter_24/static/media/accordion.7587cd8e73b1475d30ba.avif",
     "static/media/pagination.avif": "/victorreverter_24/static/media/pagination.a6df8e7ddd5e39afd08b.avif",
@@ -209,12 +213,12 @@
     "static/media/slick.ttf": "/victorreverter_24/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/victorreverter_24/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/victorreverter_24/index.html",
-    "main.ea1a9bd7.css.map": "/victorreverter_24/static/css/main.ea1a9bd7.css.map",
-    "main.8082960a.js.map": "/victorreverter_24/static/js/main.8082960a.js.map",
+    "main.3dc8984b.css.map": "/victorreverter_24/static/css/main.3dc8984b.css.map",
+    "main.28fac11a.js.map": "/victorreverter_24/static/js/main.28fac11a.js.map",
     "787.7d2d1c11.chunk.js.map": "/victorreverter_24/static/js/787.7d2d1c11.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea1a9bd7.css",
-    "static/js/main.8082960a.js"
+    "static/css/main.3dc8984b.css",
+    "static/js/main.28fac11a.js"
   ]
 }
